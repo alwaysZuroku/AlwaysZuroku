@@ -1,6 +1,6 @@
 JSON.stringify({
     status: true,
-    criador: "Tama Whatsapp Api",
+    criador: "Zuroku Whatsapp Api",
     resultado: {
         type: "md",
         ws: {
